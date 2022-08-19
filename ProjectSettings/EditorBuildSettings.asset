@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ElPisoEsLavaScene.unity
+    guid: d1b14e112116db34787c9cd830fb5d85
   m_configObjects: {}
